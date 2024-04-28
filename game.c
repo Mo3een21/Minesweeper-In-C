@@ -1,4 +1,3 @@
-//ID:212307128
 //Name: MOEEN ABU KATISH
 #include <stdio.h>
 #include <stdlib.h>
